@@ -1,0 +1,4 @@
+= Useful Resources
+:hide-uri-scheme:
+
+- https://blog.openzeppelin.com/proxy-patterns/
